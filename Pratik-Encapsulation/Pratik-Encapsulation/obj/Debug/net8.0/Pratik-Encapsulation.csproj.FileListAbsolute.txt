@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\bin\Debug\net8.0\Pratik-Encapsulation.exe
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\bin\Debug\net8.0\Pratik-Encapsulation.deps.json
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\bin\Debug\net8.0\Pratik-Encapsulation.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\bin\Debug\net8.0\Pratik-Encapsulation.dll
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\bin\Debug\net8.0\Pratik-Encapsulation.pdb
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\obj\Debug\net8.0\Pratik-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\obj\Debug\net8.0\Pratik-Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\obj\Debug\net8.0\Pratik-Encapsulation.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\obj\Debug\net8.0\Pratik-Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\obj\Debug\net8.0\Pratik-Encapsulation.dll
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\obj\Debug\net8.0\refint\Pratik-Encapsulation.dll
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\obj\Debug\net8.0\Pratik-Encapsulation.pdb
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\obj\Debug\net8.0\Pratik-Encapsulation.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-Encapsulation\Pratik-Encapsulation\obj\Debug\net8.0\ref\Pratik-Encapsulation.dll

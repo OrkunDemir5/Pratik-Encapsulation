@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orkun\\source\\repos\\Pratik-Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0523F56-C7F6-4057-AEB2-0CF0D4644EE6}|Pratik-Encapsulation\\Pratik-Encapsulation.csproj|c:\\users\\orkun\\source\\repos\\pratik-encapsulation\\pratik-encapsulation\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0523F56-C7F6-4057-AEB2-0CF0D4644EE6}|Pratik-Encapsulation\\Pratik-Encapsulation.csproj|solutionrelative:pratik-encapsulation\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0523F56-C7F6-4057-AEB2-0CF0D4644EE6}|Pratik-Encapsulation\\Pratik-Encapsulation.csproj|c:\\users\\orkun\\source\\repos\\pratik-encapsulation\\pratik-encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0523F56-C7F6-4057-AEB2-0CF0D4644EE6}|Pratik-Encapsulation\\Pratik-Encapsulation.csproj|solutionrelative:pratik-encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\Orkun\\source\\repos\\Pratik-Encapsulation\\Pratik-Encapsulation\\Araba.cs",
+              "RelativeDocumentMoniker": "Pratik-Encapsulation\\Araba.cs",
+              "ToolTip": "C:\\Users\\Orkun\\source\\repos\\Pratik-Encapsulation\\Pratik-Encapsulation\\Araba.cs",
+              "RelativeToolTip": "Pratik-Encapsulation\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:20:32.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orkun\\source\\repos\\Pratik-Encapsulation\\Pratik-Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Pratik-Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Orkun\\source\\repos\\Pratik-Encapsulation\\Pratik-Encapsulation\\Program.cs",
+              "RelativeToolTip": "Pratik-Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:20:08.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
